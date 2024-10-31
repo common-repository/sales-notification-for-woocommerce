@@ -1,0 +1,36 @@
+ .phoen_category_list_message .phoen_category_list_block {
+    margin: 0 0 20px;
+}
+
+.phoen_category_list_message .phoen_category_list_block  .select2-container {
+	vertical-align: top;
+	min-width: 150px;
+}
+
+.phoen_category_list_message .phoen_category_list_block  .phoen_update_noti,
+.phoen_category_list_message .phoen_category_list_block  .phoen_delete_noti,
+.phoen_category_list_message .phoen_category_list_block  .phoen_cat_save {
+    border: 1px solid #ccc;
+    color: #000;
+    font-size: 18px;
+    line-height: 1;
+    padding: 5px 8px;
+    text-align: center;
+    vertical-align: top;
+    width: 30px;
+}
+
+.phoen_noti_position_list {
+    margin: 0 -10px;
+}
+
+.phoen_noti_position_list li {
+    margin-bottom: 10px;
+}
+
+form.pehoen_notification_settings {
+    background-color: #fff;
+    box-sizing: border-box;
+    margin: 20px 20px 0 0;
+    padding: 0 20px;
+}
